@@ -1,5 +1,5 @@
 # Copyleft Hall-of-Shame
-A Hall of Shame for those who uses free==libre software without complying th their terms  
+A Hall of Shame for those who uses free==libre software without complying their terms  
 This project is licensed under Creative Commons BY-SA 4.0+
 
 | Offending Publisher | Offending Product | Offended Software | Offended Software's License | Offending License Term(s) | Offending Proof | Comments |
